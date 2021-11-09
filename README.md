@@ -10,4 +10,5 @@ Aplikasi Laundry menggunakan OOP Java
 <li> Buatlah polimorfisme dalam aplikasi ini</li>
 </ul>
 
+<br>
 <h1>DIAGRAM LAUNDRY</h1>
