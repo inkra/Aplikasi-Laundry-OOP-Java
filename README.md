@@ -12,3 +12,4 @@ Aplikasi Laundry menggunakan OOP Java
 
 <br>
 <h1>DIAGRAM LAUNDRY</h1>
+![Laundry (1)](https://user-images.githubusercontent.com/65702027/140892136-16d18b1c-0ef0-4cf9-b756-3631a609a09c.png)
