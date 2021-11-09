@@ -17,8 +17,3 @@ Aplikasi Laundry menggunakan OOP Java
 
 <br>
 <h2>OUTPUT</h2>
-
-![Editing Aplikasi (6)](https://user-images.githubusercontent.com/65702027/140893156-79320b2a-5819-4c9e-871c-bf74fce59f53.png)
-
-![Editing Aplikasi (7)](https://user-images.githubusercontent.com/65702027/140893176-095295b3-025d-4cae-a70c-e02c179f5956.png)
-
